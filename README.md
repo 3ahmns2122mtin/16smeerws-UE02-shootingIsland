@@ -1,4 +1,4 @@
-# Unity2020.3.18f1-README-Template
+# Shooting Island
 
 ### Projektbeschreibung: 
 Einführung in / Zusammenfassung des Projektes. 
@@ -10,7 +10,8 @@ Einführung in / Zusammenfassung des Projektes.
 WebGL Referenzauflösung (960x600) 
 
 ### Visuelle Einblicke in das Projekt: 
-Screenshots (Konzept, Spielabschnitte), Video (< 100MB, < 3 min)
+Scre![shwCodes](https://user-images.githubusercontent.com/28704310/136345013-21a0cda3-b08d-4984-8236-af713c5081ec.gif)
+enshots (Konzept, Spielabschnitte), Video (< 100MB, < 3 min)
 
 ### Notwendiges für die Ausführung: 
 z.B.: Installationsprozess, Schritt für Schritt Anweisung, spezielles Packages welches geladen werden muss, etc.  
@@ -33,4 +34,4 @@ Bitte hier nicht, ich kann nicht programmieren, sondern was wurde im Projekt von
 - [ ] Neptune
 - [ ] Comet Haley
 
-Copyright by you :)
+Copyright by smeerws :)
